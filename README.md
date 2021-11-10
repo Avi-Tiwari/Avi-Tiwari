@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Avi-Tiwari
-- 👀 I’m interested in front-end web developement.
+- 👋 Hi, I’m Avinash
+- 👀 I’m interested in web developement.
 - 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Avi-Tiwari/Avi-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
